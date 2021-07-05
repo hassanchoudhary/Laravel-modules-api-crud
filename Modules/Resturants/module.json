@@ -1,0 +1,13 @@
+{
+    "name": "Resturants",
+    "alias": "resturants",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Resturants\\Providers\\ResturantsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
